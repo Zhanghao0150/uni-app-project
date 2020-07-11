@@ -4,6 +4,12 @@
 		"style": {
 			"navigationBarTitleText": "我的第一个uni-app项目"
 		}
+	},
+	{
+		"path": "pages/share/share",
+		"style": {
+			"navigationBarTitleText": "我在江湖"
+		}
 	}],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
